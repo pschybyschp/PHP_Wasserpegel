@@ -1,5 +1,5 @@
 # PHP_Watergauge
-With PHP_Wategauge you can load water related data from the Wasserpegel API (https://www.pegelonline.wsv.de/webservice/dokuRestapi#ressourcenMeasurement) provided by the German WSV.
+With PHP_Wasserpegel you can load water related data from the Wasserpegel API (https://www.pegelonline.wsv.de/webservice/dokuRestapi#ressourcenMeasurement) provided by the German WSV.
 It consist of 2 php files and a json based helper file.
 
 Initail file: WSV_pegel.php
